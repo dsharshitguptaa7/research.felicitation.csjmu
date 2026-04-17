@@ -1,3 +1,24 @@
+const text = `Welcome
+to
+Research Excellence
+Felicitation & Launch of Research Bulletin
+
+(Volume -02, Issue-01)`;
+
+let index = 0;
+const speed = 40;
+
+function typeEffect() {
+  if (index < text.length) {
+    document.getElementById("typing").innerHTML += 
+      text.charAt(index) === "\n" ? "<br>" : text.charAt(index);
+    index++;
+    setTimeout(typeEffect, speed);
+  }
+}
+
+typeEffect();
+
 let authorsData = [];
 
 // Load JSON
@@ -51,3 +72,38 @@ function downloadCert(name) {
   const file = "certificates/" + name + ".pdf";
   window.open(file, "_blank");
 }
+
+
+function openModal(id) {
+  document.getElementById(id).style.display = "block";
+}
+
+function closeModal(id) {
+  document.getElementById(id).style.display = "none";
+}
+const counters = document.querySelectorAll('.counter');
+
+counters.forEach(counter => {
+  const update = () => {
+    const target = +counter.getAttribute('data-target');
+    const current = +counter.innerText;
+
+    const increment = target / 50;
+
+    if (current < target) {
+      counter.innerText = Math.ceil(current + increment);
+      setTimeout(update, 30);
+    } else {
+      counter.innerText = target;
+    }
+  };
+
+  update();
+});
+
+document.getElementById("searchInput")
+  .addEventListener("keypress", function(e) {
+    if (e.key === "Enter") {
+      searchAuthor();
+    }
+  });
