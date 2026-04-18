@@ -34,12 +34,36 @@ function searchAuthor() {
 
   resultDiv.innerHTML = "";
 
+  // 🔥 FIX 1: Empty input check
+  if (input === "") {
+    resultDiv.innerHTML = `
+      <div class="card">
+        <p>⚠ Please enter your Name or Author ID</p>
+      </div>
+    `;
+    return;
+  }
+
+  // 🔥 FIX 2: Minimum length (optional but pro)
+  if (input.length < 2) {
+    resultDiv.innerHTML = `
+      <div class="card">
+        <p>⚠ Enter at least 2 characters</p>
+      </div>
+    `;
+    return;
+  }
+
   const matches = authorsData.filter(a =>
     a.name.toLowerCase().includes(input) || a.id.includes(input)
   );
 
   if (matches.length === 0) {
-    resultDiv.innerHTML = "<p>No results found</p>";
+    resultDiv.innerHTML = `
+      <div class="card">
+        <p>❌ No results found</p>
+      </div>
+    `;
     return;
   }
 
@@ -60,7 +84,7 @@ function searchAuthor() {
       <ul class="titles">${titlesHTML}</ul>
 
       <button class="download-btn" onclick="downloadCert('${user.name}')">
-        Download Certificate
+        ⬇ Download Certificate
       </button>
     `;
 

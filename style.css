@@ -200,6 +200,7 @@ body {
   margin-bottom: 20px;
   color: #2c2c2c;
   position: relative;
+  text-align: center;
 }
 
 /* GOLD LINE */
@@ -682,6 +683,39 @@ button:hover {
   margin-bottom: 10px;
   color: #2c2c2c;
 }
+/* BASE */
+.pub-btn {
+  position: relative;
+  background: #C9A14A;
+  color: white;
+  padding: 12px 25px;
+  border-radius: 8px;
+  animation: pulseGlow 2s infinite;
+  overflow: hidden;
+}
+
+/* Glow */
+@keyframes pulseGlow {
+  0% { box-shadow: 0 0 0px rgba(201,161,74,0.5); }
+  50% { box-shadow: 0 0 20px rgba(201,161,74,0.9); }
+  100% { box-shadow: 0 0 0px rgba(201,161,74,0.5); }
+}
+
+/* Shine */
+.pub-btn::before {
+  content: "";
+  position: absolute;
+  top: 0;
+  left: -100%;
+  width: 50%;
+  height: 100%;
+  background: linear-gradient(120deg, transparent, rgba(255,255,255,0.6), transparent);
+}
+
+.pub-btn:hover::before {
+  left: 100%;
+  transition: 0.5s;
+}
 
 .authors {
   font-size: 0.9rem;
@@ -694,21 +728,7 @@ button:hover {
   margin-top: 5px;
 }
 
-/* BUTTON */
-.view-btn {
-  display: inline-block;
-  margin-top: 60px;
-  padding: 12px 25px;
-  background: #C9A14A;
-  color: white;
-  border-radius: 8px;
-  text-decoration: none;
-  transition: 0.3s;
-}
 
-.view-btn:hover {
-  background: #a8832f;
-}
 
 /* SECTION */
 .search-section {
