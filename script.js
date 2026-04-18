@@ -38,7 +38,7 @@ function searchAuthor() {
   if (input === "") {
     resultDiv.innerHTML = `
       <div class="card">
-        <p>⚠ Please enter your Name or Author ID</p>
+        <p>⚠ Please enter your Name or Scopus ID</p>
       </div>
     `;
     return;
@@ -78,7 +78,7 @@ function searchAuthor() {
 
     card.innerHTML = `
       <h3>${user.name}</h3>
-      <p><strong>ID:</strong> ${user.id}</p>
+      <p><strong>Scopus ID:</strong> ${user.id}</p>
       <p><strong>Publications:</strong> ${user.titles.length}</p>
 
       <ul class="titles">${titlesHTML}</ul>
