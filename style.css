@@ -935,3 +935,23 @@ button:hover {
 html {
   scroll-behavior: smooth;
 }
+.invitation-section {
+  padding: 80px 20px;
+  text-align: center;
+  background: #F5F1E8;
+}
+
+.invite-container {
+  display: inline-block;
+  padding: 15px;
+  background: linear-gradient(45deg, #C9A14A, #a8832f);
+  border-radius: 12px;
+  box-shadow: 0 10px 30px rgba(0,0,0,0.2);
+}
+
+.invite-container img {
+  width: 100%;
+  max-width: 500px;
+  border-radius: 10px;
+  display: block;
+}
