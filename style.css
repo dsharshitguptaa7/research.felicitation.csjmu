@@ -909,3 +909,26 @@ button:hover {
     max-width: 300px;
   }
 }
+.footer {
+  background: #1c1c1c;
+  color: #ccc;
+  text-align: center;
+  padding: 30px 20px;
+  font-size: 0.9rem;
+}
+
+.footer p {
+  margin: 5px 0;
+}
+
+/* CREDIT LINE */
+.footer .credit {
+  margin-top: 10px;
+  color: #aaa;
+  line-height: 1.6;
+}
+
+/* HIGHLIGHT NAMES */
+.footer strong {
+  color: #C9A14A;
+}
