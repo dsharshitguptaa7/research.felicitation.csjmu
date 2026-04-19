@@ -146,3 +146,8 @@ document.getElementById("searchInput")
       searchAuthor();
     }
   });
+window.addEventListener("load", () => {
+  if (window.location.hash === "#find-certificate") {
+    document.getElementById("searchInput").focus();
+  }
+});

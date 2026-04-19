@@ -932,3 +932,6 @@ button:hover {
 .footer strong {
   color: #C9A14A;
 }
+html {
+  scroll-behavior: smooth;
+}
