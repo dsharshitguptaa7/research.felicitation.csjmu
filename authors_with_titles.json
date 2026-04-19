@@ -2,6 +2,7 @@
   {
     "id": "59650228300",
     "name": "Chandra Shekhar Kumar",
+    "certificates":["48-48.pdf"],
     "titles": [
       "Advancing understanding of talocrural mobilization: a commentary on methodology and clinical relevance",
       "Impact of musculoskeletal discomforts and nutritional imbalance in pregnant women: A systematic review"
@@ -41,6 +42,7 @@
   {
     "id": "59563275700",
     "name": "Vinny Virdi",
+    "certificates":["41-41.pdf"],
     "titles": [
       "Embracing Nature: Anti-Biofilm Herbal Compounds against Mycobacterium tuberculosis (Mtb) used in Tuberculosis Treatment"
     ]
@@ -48,6 +50,7 @@
   {
     "id": "58732513000",
     "name": "Jagriti Singh",
+    "certificates":["41-41.pdf"],
     "titles": [
       "Embracing Nature: Anti-Biofilm Herbal Compounds against Mycobacterium tuberculosis (Mtb) used in Tuberculosis Treatment"
     ]
@@ -55,6 +58,7 @@
   {
     "id": "16305251600",
     "name": "Rolee Sharma",
+    "certificates":["41-41.pdf"],
     "titles": [
       "Embracing Nature: Anti-Biofilm Herbal Compounds against Mycobacterium tuberculosis (Mtb) used in Tuberculosis Treatment"
     ]
@@ -62,6 +66,7 @@
   {
     "id": "57205463797",
     "name": "Dipesh Kumar Verma",
+    "certificates":["41-41.pdf"],
     "titles": [
       "Embracing Nature: Anti-Biofilm Herbal Compounds against Mycobacterium tuberculosis (Mtb) used in Tuberculosis Treatment"
     ]
@@ -69,6 +74,7 @@
   {
     "id": "36346949600",
     "name": "Rajesh Kumar Dwivedi",
+    "certificates":["34-34.pdf"],
     "titles": [
       "WIRELESS TECHNOLOGY: Advances and Innovations for Smart IoT Applications",
       "Study of thermal and hydrophilic behaviour of interpenetrating polymer network of Graphene and poly alpha methyl styrene"
@@ -100,7 +106,7 @@
   {
     "id": "58492263200",
     "name": "Neeraj Kumar Singh",
-    "certificate":"01-01.pdf",
+    "certificates":["01-01.pdf"],
     "titles": [
       "Identifying Determinants of Social Media Influence on Purchase Decisions: A Factor Analytical Study of Rural Consumers in Selected Districts of Uttar Pradesh"
     ]
@@ -143,6 +149,7 @@
   {
     "id": "55631369700",
     "name": "Anju Singh",
+    "certificates":["44-44.pdf"],
     "titles": [
       "Case Studies and Success Stories of AI-Driven Approaches for Nucleic Acid Delivery",
       "Pharmacological Foundation and Novel Insights of Resveratrol in Cardiovascular System: A Review"
@@ -186,6 +193,7 @@
   {
     "id": "59180062400",
     "name": "Atul Kumar Agnihotri",
+    "certificates":["23-23.pdf"],
     "titles": [
       "Improving WSN Lifetime by Enhanced Clustering and Time-Controlled Jellyfish Optimization",
       "Deep learning-based detection and recovery mechanism for mitigating selective forwarding attacks in event-driven wireless sensor network"
@@ -194,6 +202,10 @@
   {
     "id": "55658193700",
     "name": "Vishal Awasthi",
+    "certificates":[
+      "23-23.pdf",
+      "26-26,pdf"
+    ],
     "titles": [
       "Improving WSN Lifetime by Enhanced Clustering and Time-Controlled Jellyfish Optimization",
       "Deep learning-based detection and recovery mechanism for mitigating selective forwarding attacks in event-driven wireless sensor network",
@@ -218,7 +230,7 @@
   {
     "id": "59322736300",
     "name": "Akhilesh Chandra Pandey",
-    "certificate":"02-02.pdf",
+    "certificates": ["02-02.pdf"],
     "titles": [
       "Investigation of immiscible couple stress nanofluid and micropolar fluid flow through porous beds with different permeability"
     ]
@@ -226,6 +238,7 @@
   {
     "id": "57191890760",
     "name": "Ajay Kumar Pandey",
+    "certificates": ["03-03.pdf", "42-42.pdf"],
     "titles": [
       "Advanced approaches for mitigating impact of pre-treatment generated inhibitors in lignocellulosic hydrolysates: A comprehensive review"
     ]
@@ -247,7 +260,7 @@
   {
     "id": "58482881100",
     "name": "Kumari Arpita",
-    "certificate":"03-03.pdf",
+    "certificates": ["03-03.pdf"],
     "titles": [
       "A multi city assessment of industrial waste management in the middle Ganga Basin Uttar Pradesh India"
     ]
@@ -255,7 +268,7 @@
   {
     "id": "57211433387",
     "name": "Sanjeev Kumar Singh",
-    "certificate":"03-03.pdf",
+    "certificates": ["03-03.pdf"],
     "titles": [
       "A multi city assessment of industrial waste management in the middle Ganga Basin Uttar Pradesh India"
     ]
@@ -263,7 +276,7 @@
   {
     "id": "60335580800",
     "name": "Vishal Chand",
-    "certificate":"03-03.pdf",
+    "certificates": ["03-03.pdf"],
     "titles": [
       "A multi city assessment of industrial waste management in the middle Ganga Basin Uttar Pradesh India"
     ]
@@ -271,7 +284,7 @@
   {
     "id": "60385512400",
     "name": "Surendra Kumar",
-    "certificate":"03-03.pdf",
+    "certificates": ["03-03.pdf"],
     "titles": [
       "A multi city assessment of industrial waste management in the middle Ganga Basin Uttar Pradesh India"
     ]
@@ -279,7 +292,7 @@
   {
     "id": "60336444000",
     "name": "Saurabh Mishra",
-    "certificate":"03-03.pdf",
+    "certificates": ["03-03.pdf"],
     "titles": [
       "A multi city assessment of industrial waste management in the middle Ganga Basin Uttar Pradesh India"
     ]
@@ -287,7 +300,7 @@
   {
     "id": "7409869864",
     "name": "Saurabh",
-    "certificate":"03-03.pdf",
+    "certificates": ["03-03.pdf"],
     "titles": [
       "A multi city assessment of industrial waste management in the middle Ganga Basin Uttar Pradesh India"
     ]
@@ -295,7 +308,7 @@
   {
     "id": "60195398900",
     "name": "Kavita Singh",
-    "certificate":"03-03.pdf",
+    "certificates": ["03-03.pdf"],
     "titles": [
       "A multi city assessment of industrial waste management in the middle Ganga Basin Uttar Pradesh India"
     ]
@@ -303,6 +316,7 @@
   {
     "id": "60336586500",
     "name": "Shilpi Raj",
+    "certificates": ["03-03.pdf"],
     "titles": [
       "A multi city assessment of industrial waste management in the middle Ganga Basin Uttar Pradesh India"
     ]
@@ -310,6 +324,7 @@
   {
     "id": "57935134900",
     "name": "Sunil Kumar",
+    "certificates": ["03-03.pdf"],
     "titles": [
       "A multi city assessment of industrial waste management in the middle Ganga Basin Uttar Pradesh India"
     ]
@@ -317,6 +332,7 @@
   {
     "id": "58993535200",
     "name": "Shubham Pant",
+    "certificates": ["03-03.pdf"],
     "titles": [
       "Biological big data analysis in the post-genomic era: applications and limitations"
     ]
@@ -338,6 +354,7 @@
   {
     "id": "60054706800",
     "name": "Anil Kumar Yadav",
+    "certificates":["43-43.pdf"],
     "titles": [
       "Biological big data analysis in the post-genomic era: applications and limitations"
     ]
@@ -380,7 +397,7 @@
   {
     "id": "57267621100",
     "name": "Arpit Dwivedi",
-    "certificate":"04-04.pdf",
+    "certificates": ["04-04.pdf"],
     "titles": [
       "On stochastic dynamical systems governed by generalized fractional order stochastic anti-periodic boundary value problem with Poisson-jump"
     ]
@@ -395,6 +412,7 @@
   {
     "id": "58197925100",
     "name": "Jaya Bharti",
+    "certificates":["45-45.pdf"],
     "titles": [
       "The Psychological Impact of Societal Beauty Standards: A Systematic Review of Body Image Issues, Awareness Campaigns and the Role of Palliative Care in the Digital Era"
     ]
@@ -402,7 +420,7 @@
   {
     "id": "59438723900",
     "name": "Omkar Agrahari",
-    "certificate":"05-05.pdf",
+    "certificates": ["05-05.pdf"],
     "titles": [
       "An Analysis of Academic Behavior Analytics in Blended Mode of Teaching and Learning"
     ]
@@ -410,7 +428,7 @@
   {
     "id": "7103235575",
     "name": "Vinay Kumar Pathak",
-    "certificate":"05-05.pdf",
+    "certificates": ["05-05.pdf"],
     "titles": [
       "An Analysis of Academic Behavior Analytics in Blended Mode of Teaching and Learning"
     ]
@@ -480,7 +498,7 @@
   {
     "id": "58688627800",
     "name": "Anuj Kumar",
-    "certificate":"06-06.pdf",
+    "certificates": ["06-06.pdf"],
     "titles": [
       "Incorporating Behavioural Haematological Biochemical and Pathophysiological Markers to Gauge the Detrimental Consequences of Altered Water Chemistry"
     ]
@@ -488,7 +506,10 @@
   {
     "id": "60236650800",
     "name": "Deepak Kumar Dwivedi",
-    "certificate":"06-06.pdf",
+    "certificates": [
+      "06-06.pdf",
+      "08-08.pdf"
+  ],
     "titles": [
       "Incorporating Behavioural Haematological Biochemical and Pathophysiological Markers to Gauge the Detrimental Consequences of Altered Water Chemistry",
       "Role of Ascorbic Acid in Mitigating Oxidative Stress and Mutagenicity Induced by Heavy Metals Toxicity in Heteropneustes fossilis. L"
@@ -497,6 +518,7 @@
   {
     "id": "57822967400",
     "name": "Anil Kumar Meena",
+    "certificates": ["06-06.pdf"],
     "titles": [
       "Incorporating Behavioural Haematological Biochemical and Pathophysiological Markers to Gauge the Detrimental Consequences of Altered Water Chemistry"
     ]
@@ -504,6 +526,7 @@
   {
     "id": "59996311200",
     "name": "Saurabh Mishra",
+    "certificates": ["06-06.pdf"],
     "titles": [
       "Incorporating Behavioural Haematological Biochemical and Pathophysiological Markers to Gauge the Detrimental Consequences of Altered Water Chemistry"
     ]
@@ -511,7 +534,10 @@
   {
     "id": "58252798300",
     "name": "Vinod Kumar Verma",
-    "certificate":"06-06.pdf",
+    "certificates": [
+      "06-06.pdf",
+      "08-08.pdf"
+  ],
     "titles": [
       "Incorporating Behavioural Haematological Biochemical and Pathophysiological Markers to Gauge the Detrimental Consequences of Altered Water Chemistry",
       "Role of Ascorbic Acid in Mitigating Oxidative Stress and Mutagenicity Induced by Heavy Metals Toxicity in Heteropneustes fossilis. L"
@@ -618,6 +644,7 @@
   {
     "id": "60091013700",
     "name": "Bhanu Kushwaha",
+    "certificates":["46-46.pdf"],
     "titles": [
       "Operational efficiencies and sustainable bioprocessing in electro-fermentation and microbial fuel cells"
     ]
@@ -625,6 +652,7 @@
   {
     "id": "60091594400",
     "name": "Ravi Shukla",
+    "certificates":["46-46.pdf"],
     "titles": [
       "Operational efficiencies and sustainable bioprocessing in electro-fermentation and microbial fuel cells"
     ]
@@ -632,6 +660,7 @@
   {
     "id": "57196152080",
     "name": "Rakesh Kumar Sharma",
+    "certificates":["46-46.pdf"],
     "titles": [
       "Operational efficiencies and sustainable bioprocessing in electro-fermentation and microbial fuel cells",
       "Biochar-Enhanced Biofertilization: Boosting Soil Microbial Activity, Disease Resistance, and Plant Growth"
@@ -663,7 +692,7 @@
   {
     "id": "60388310500",
     "name": "Anuj Kumar",
-    "certificate":"08-08.pdf",
+    "certificates":["08-08.pdf"],
     "titles": [
       "Role of Ascorbic Acid in Mitigating Oxidative Stress and Mutagenicity Induced by Heavy Metals Toxicity in Heteropneustes fossilis. L"
     ]
@@ -671,7 +700,7 @@
   {
     "id": "58688627700",
     "name": "Shalini Gupta",
-    "certificate":"08-08.pdf",
+    "certificates":["08-08.pdf"],
     "titles": [
       "Role of Ascorbic Acid in Mitigating Oxidative Stress and Mutagenicity Induced by Heavy Metals Toxicity in Heteropneustes fossilis. L"
     ]
@@ -707,6 +736,7 @@
   {
     "id": "59667989100",
     "name": "Shweta Pandey",
+    "certificates":["47-47.pdf"],
     "titles": [
       "Epistemic trust in generative AI for higher education scale (ETGAI-HE scale)"
     ]
@@ -714,6 +744,7 @@
   {
     "id": "60466430000",
     "name": "Abhishek Rai",
+    "certificates":["09-09.pdf"],
     "titles": [
       "In silico analysis revealing promoter methylation of CHKB gene correlated with CD8+ cell population in Breast cancer"
     ]
@@ -721,6 +752,7 @@
   {
     "id": "60465664100",
     "name": "Rishika Yadav",
+    "certificates":["09-09.pdf"],
     "titles": [
       "In silico analysis revealing promoter methylation of CHKB gene correlated with CD8+ cell population in Breast cancer"
     ]
@@ -728,6 +760,7 @@
   {
     "id": "7404166725",
     "name": "Gyanendra Singh",
+    "certificates":[],
     "titles": [
       "In silico analysis revealing promoter methylation of CHKB gene correlated with CD8+ cell population in Breast cancer",
       "Promoter methylation signature of SLC16A11 gene reavels poor prognosis in head and neck squamous cell carcinoma"
@@ -736,6 +769,13 @@
   {
     "id": "55598726000",
     "name": "Anuradha Kalani",
+    "certificates":[
+      "09-09.pdf",
+      "32-32.pdf",
+      "24-24.pdf",
+      "37-37.pdf",
+      "53-53.pdf"
+    ],
     "titles": [
       "In silico analysis revealing promoter methylation of CHKB gene correlated with CD8+ cell population in Breast cancer",
       "Mechanistic insights into Fusarium oxysporum suppression by Trichoderma cerinum Gur1 volatiles: Downregulation of trichothecene and bikaverin biosynthesis genes",
@@ -747,6 +787,10 @@
   {
     "id": "57194066917",
     "name": "Rajeev Mishra",
+    "certificates":[
+      "09-09.pdf",
+      "37-37.pdf"
+    ],
     "titles": [
       "In silico analysis revealing promoter methylation of CHKB gene correlated with CD8+ cell population in Breast cancer",
       "Promoter methylation signature of SLC16A11 gene reavels poor prognosis in head and neck squamous cell carcinoma"
@@ -762,6 +806,7 @@
   {
     "id": "60278318800",
     "name": "Shraddha Bhatia",
+    "certificates":["10-10.pdf"],
     "titles": [
       "Free Healthcare and Digital Infrastructure in India: Pragmatic or Ideological?; [Atenci\u00f3n a la salud gratuita e infraestructura digital en la India: \u00bfpragmatismo o ideolog\u00eda?]"
     ]
@@ -769,6 +814,7 @@
   {
     "id": "60277715600",
     "name": "Vandana Dwivedi",
+    "certificates":["10-10.pdf"],
     "titles": [
       "Free Healthcare and Digital Infrastructure in India: Pragmatic or Ideological?; [Atenci\u00f3n a la salud gratuita e infraestructura digital en la India: \u00bfpragmatismo o ideolog\u00eda?]"
     ]
@@ -811,6 +857,7 @@
   {
     "id": "60094754400",
     "name": "Mohit Kumar",
+    "certificates":["11-11.pdf"],
     "titles": [
       "A rare presentation of diabetic foot ulcer with gas gangrene: A case report"
     ]
@@ -853,6 +900,7 @@
   {
     "id": "58275612900",
     "name": "Dharmendra Kumar Singh",
+    "certificates":["12-12.pdf"],
     "titles": [
       "Optimal Harvesting of Three Species Intraguild Predation Model with Ratio-dependent Functional Response"
     ]
@@ -867,6 +915,7 @@
   {
     "id": "60245307700",
     "name": "Tripathi Swati",
+    "certificates":["13-13.pdf"],
     "titles": [
       "Natural hydroxy-isoflavone as potential modulator of Salmonella virulence, targeting the T3SS complex at host-pathogen interface Varma Aryan"
     ]
@@ -874,6 +923,7 @@
   {
     "id": "60045904100",
     "name": "Sahni Deepak",
+    "certificates":["13-13.pdf","40-40.pdgf"],
     "titles": [
       "Natural hydroxy-isoflavone as potential modulator of Salmonella virulence, targeting the T3SS complex at host-pathogen interface Varma Aryan",
       "In silico study of dynamic expression profile of mRNA Export Factors promoting progression of Diffuse large B-cell lymphoma"
@@ -882,6 +932,7 @@
   {
     "id": "60245524400",
     "name": "Bharati Akhilendra Pratap",
+    "certificates":["13-13.pdf","40-40.pdf"],
     "titles": [
       "Natural hydroxy-isoflavone as potential modulator of Salmonella virulence, targeting the T3SS complex at host-pathogen interface Varma Aryan",
       "In silico study of dynamic expression profile of mRNA Export Factors promoting progression of Diffuse large B-cell lymphoma"
@@ -890,6 +941,7 @@
   {
     "id": "60045801200",
     "name": "Sharma Chandresh",
+    "certificates":["37-37.pdf","40-40.pdf"],
     "titles": [
       "Natural hydroxy-isoflavone as potential modulator of Salmonella virulence, targeting the T3SS complex at host-pathogen interface Varma Aryan",
       "In silico study of dynamic expression profile of mRNA Export Factors promoting progression of Diffuse large B-cell lymphoma"
@@ -898,6 +950,7 @@
   {
     "id": "59697929700",
     "name": "Amrita",
+    "certificates":["14-14.pdf"],
     "titles": [
       "ASSESSMENT OF RIVER WATER QUALITY AND POLLUTION STATUS USING PHYSICOCHEMICAL AND BIOLOGICAL PARAMETERS OF RIVER PANDU AT DISTRICT KANPUR, UTTAR PRADESH"
     ]
@@ -905,6 +958,7 @@
   {
     "id": "57212219499",
     "name": "Esha Yadav",
+    "certificates":["14-14.pdf"],
     "titles": [
       "ASSESSMENT OF RIVER WATER QUALITY AND POLLUTION STATUS USING PHYSICOCHEMICAL AND BIOLOGICAL PARAMETERS OF RIVER PANDU AT DISTRICT KANPUR, UTTAR PRADESH"
     ]
@@ -912,6 +966,7 @@
   {
     "id": "60046831600",
     "name": "Pravin Kumar Agrawal",
+    "certificates":["15-15.pdf"],
     "titles": [
       "Volatility Spillover Effects in Founding Members of BRICS Stock Markets: A DCC-GARCH Perspective"
     ]
@@ -933,6 +988,7 @@
   {
     "id": "57215350884",
     "name": "Mohit Kumar",
+    "certificates":["14-14.pdf"],
     "titles": [
       "Volatility Spillover Effects in Founding Members of BRICS Stock Markets: A DCC-GARCH Perspective"
     ]
@@ -970,6 +1026,7 @@
   {
     "id": "35119371500",
     "name": "Devendra Pratap Rao",
+    "certificates":["16-16.pdf","38-38.pdf","49-49.pdf","51-51.pdf"],
     "titles": [
       "Carbon cone-shaped anodes for sodium and potassium-ion batteries: a theoretical study",
       "Recent advances in miniaturized electrochemical sensors based on carbon nanomaterials for heavy metals in aqueous environments: Nanoarchitectonics and application challenges",
@@ -1010,6 +1067,7 @@
   {
     "id": "57218418846",
     "name": "Kashif Imdad",
+    "certificates":["17-17.pdf"],
     "titles": [
       "Nighttime and compound heatwaves as emerging climate risks in India's smart cities"
     ]
@@ -1024,6 +1082,7 @@
   {
     "id": "57811734500",
     "name": "Archana Chaudhary",
+    "certificates":["17-17.pdf"],
     "titles": [
       "Nighttime and compound heatwaves as emerging climate risks in India's smart cities"
     ]
@@ -1045,6 +1104,7 @@
   {
     "id": "59027662400",
     "name": "Mamta Kumari",
+    "certificates":["18-18.pdf"],
     "titles": [
       "Modeling the impact of government efforts to increase informal jobs on the control of unemployment"
     ]
@@ -1115,6 +1175,7 @@
   {
     "id": "58046770400",
     "name": "Kuldeep Kumar Shukla",
+    "certificates":["19-19.pdf"],
     "titles": [
       "Influence of Different Feeding Methods of NPK and Boron on Vegetative Growth and Biochemical Attributes of Dragon Fruit [Hylocereus costarecencis]"
     ]
@@ -1213,6 +1274,10 @@
   {
     "id": "57226081157",
     "name": "Samiksha Singh",
+    "certificates":[
+      "20-20.pdf",
+      "22-22.pdf"
+    ],
     "titles": [
       "Seed priming with silicon nanoparticles and nitric oxide optimizes barley growth in zinc-deficient condition: A crucial role of optimum level of endogenous nitric oxide",
       "BI-1-HEM1 Condensates Autophagy Drives Disease Resistance"
@@ -1236,6 +1301,7 @@
   {
     "id": "58718073600",
     "name": "Nabiya Iqbal",
+    "certificates":["21-21.pdf"],
     "titles": [
       "Role of Bismuth and Strontium A-Site Dopants on the Structural Evolution of Sol-Gel Derived Barium Titanate"
     ]
@@ -1243,6 +1309,10 @@
   {
     "id": "7102624974",
     "name": "Anju Dixit",
+    "certificates":[
+      "21-21.pdf",
+      "33-33.pdf"
+    ],
     "titles": [
       "Role of Bismuth and Strontium A-Site Dopants on the Structural Evolution of Sol-Gel Derived Barium Titanate",
       "Structural and thermal analysis of (Bi2Te3)1-x Snx nanostructured thermoelectric telluride (tet) material"
@@ -1258,6 +1328,7 @@
   {
     "id": "59258505600",
     "name": "Neha Shukla",
+    "certificates":["48-48.pdf"],
     "titles": [
       "Impact of musculoskeletal discomforts and nutritional imbalance in pregnant women: A systematic review"
     ]
@@ -1265,6 +1336,7 @@
   {
     "id": "59258716900",
     "name": "Aamena Zaidi",
+    "certificates":["48-48.pdf"],
     "titles": [
       "Impact of musculoskeletal discomforts and nutritional imbalance in pregnant women: A systematic review"
     ]
@@ -1272,6 +1344,7 @@
   {
     "id": "59652748800",
     "name": "Anamika Dixit",
+    "certificates":["48-48.pdf"],
     "titles": [
       "Impact of musculoskeletal discomforts and nutritional imbalance in pregnant women: A systematic review"
     ]
@@ -1279,6 +1352,7 @@
   {
     "id": "55243864100",
     "name": "Anupriya Kapoor",
+    "certificates":["48-48.pdf"],
     "titles": [
       "Impact of musculoskeletal discomforts and nutritional imbalance in pregnant women: A systematic review"
     ]
@@ -1343,6 +1417,11 @@
   {
     "id": "59553017100",
     "name": "Ekta Khare",
+    "certificates":[
+      "24-24.pdf",
+      "31-31.pdf",
+      "32-32.pdf"
+    ],
     "titles": [
       "Mechanistic insights into Fusarium oxysporum suppression by Trichoderma cerinum Gur1 volatiles: Downregulation of trichothecene and bikaverin biosynthesis genes",
       "Role of zinc-solubilizing bacteria as biostimulants for plant growth promotion and sustainable agriculture",
@@ -1369,6 +1448,7 @@
   {
     "id": "59997418200",
     "name": "Alok Pandey",
+    "certificates":["24-24.pdf"],
     "titles": [
       "Mechanistic insights into Fusarium oxysporum suppression by Trichoderma cerinum Gur1 volatiles: Downregulation of trichothecene and bikaverin biosynthesis genes"
     ]
@@ -1376,6 +1456,7 @@
   {
     "id": "60449673800",
     "name": "Shilpa Deshpande Kaistha",
+    "certificates":["24-24.pdf"],
     "titles": [
       "Mechanistic insights into Fusarium oxysporum suppression by Trichoderma cerinum Gur1 volatiles: Downregulation of trichothecene and bikaverin biosynthesis genes"
     ]
@@ -1461,6 +1542,7 @@
   {
     "id": "60094532000",
     "name": "Shivanshi Singh",
+    "certificates":["25-25.pdf"],
     "titles": [
       "A SAP-LAP integrated e-IRP approach for green hydrogen operations for sustainable mobility"
     ]
@@ -1468,6 +1550,7 @@
   {
     "id": "59735277500",
     "name": "Vivek Singh Sachan",
+    "certificates":["25-25.pdf"],
     "titles": [
       "A SAP-LAP integrated e-IRP approach for green hydrogen operations for sustainable mobility"
     ]
@@ -1475,6 +1558,7 @@
   {
     "id": "57219111617",
     "name": "Ashu Yadav",
+    "certificates":["25-25.pdf"],
     "titles": [
       "A SAP-LAP integrated e-IRP approach for green hydrogen operations for sustainable mobility"
     ]
@@ -1503,6 +1587,7 @@
   {
     "id": "59902361300",
     "name": "Santosh Kumar Yadav",
+    "certificates":["50-50.pdf"],
     "titles": [
       "Reimaging Radiation Safety: A Call for Unified Practices in the Digital Imaging Era"
     ]
@@ -1553,6 +1638,7 @@
   {
     "id": "58866441000",
     "name": "Mamta Tiwari",
+    "certificates":["26-26.pdf"],
     "titles": [
       "Multi-scale Cross Vision Transformer Framework for Nutritional Value Estimation in Food Images"
     ]
@@ -1574,6 +1660,7 @@
   {
     "id": "59937937100",
     "name": "Ravi Kant Mishra",
+    "certificates":["26-26.pdf"],
     "titles": [
       "Multi-scale Cross Vision Transformer Framework for Nutritional Value Estimation in Food Images"
     ]
@@ -1602,6 +1689,7 @@
   {
     "id": "58797837900",
     "name": "Vimal Singh",
+    "certificates":["27-27.pdf"],
     "titles": [
       "A Journey from Low Self-esteem to High Self-worth: Importance of Holistic Education for Children from Marginalised Sections"
     ]
@@ -1630,6 +1718,7 @@
   {
     "id": "59937222700",
     "name": "Rashmi Gore",
+    "certificates":["27-27.pdf"],
     "titles": [
       "A Journey from Low Self-esteem to High Self-worth: Importance of Holistic Education for Children from Marginalised Sections"
     ]
@@ -1637,6 +1726,7 @@
   {
     "id": "59937222800",
     "name": "Badri Narayan Mishra",
+    "certificates":["27-27.pdf"],
     "titles": [
       "A Journey from Low Self-esteem to High Self-worth: Importance of Holistic Education for Children from Marginalised Sections"
     ]
@@ -1707,6 +1797,7 @@
   {
     "id": "55204266800",
     "name": "Bhoomika Yadav",
+    "certificates":["28-28.pdf"],
     "titles": [
       "From structure to safety: Material characterization and toxicological evaluation of Vanshlochan (Bambusa bambos (L.) voss [Poaceae]) using AI-assisted and In vivo approaches"
     ]
@@ -1749,6 +1840,7 @@
   {
     "id": "56448431800",
     "name": "Munish Rastogi",
+    "certificates":["29-29.pdf"],
     "titles": [
       "Evaluation of Soft Tissue Surgical Interventions to Improve Esthetic Outcomes in Restorative Dentistry"
     ]
@@ -1868,6 +1960,7 @@
   {
     "id": "59996205700",
     "name": "Shukla Aparna",
+    "certificates":["30-30.pdf"],
     "titles": [
       "Isolation and identification of microbial strains producing antineoplastic agent L-asparaginase"
     ]
@@ -1875,6 +1968,7 @@
   {
     "id": "60245204000",
     "name": "Vishal Kunwar",
+    "certificates":["30-30.pdf"],
     "titles": [
       "Isolation and identification of microbial strains producing antineoplastic agent L-asparaginase"
     ]
@@ -1882,6 +1976,10 @@
   {
     "id": "55446468900",
     "name": "Pramod K. Yadav",
+    "certificates":[
+      "30-30.pdf",
+      "37-37.pdf"
+  ],
     "titles": [
       "Isolation and identification of microbial strains producing antineoplastic agent L-asparaginase",
       "Promoter methylation signature of SLC16A11 gene reavels poor prognosis in head and neck squamous cell carcinoma"
@@ -1890,6 +1988,7 @@
   {
     "id": "59626246700",
     "name": "Shivam Kumar",
+    "certificates":["52-52.pdf"],
     "titles": [
       "A comprehensive review on 1,2,4-Triazole: Synthesis, properties and therapeutic potential"
     ]
@@ -1897,6 +1996,7 @@
   {
     "id": "55445829700",
     "name": "Shashi Kiran Misra",
+    "certificates":["52-52.pdf","55-55.pdf"],
     "titles": [
       "A comprehensive review on 1,2,4-Triazole: Synthesis, properties and therapeutic potential",
       "Analytical advances in the quantitative and qualitative determination of clonidine and methyldopa: A review"
@@ -1920,6 +2020,7 @@
   {
     "id": "59421358700",
     "name": "Ajay Kumar",
+    "certificates":["35-35.pdf","55-55.pdf"],
     "titles": [
       "A comprehensive review on 1,2,4-Triazole: Synthesis, properties and therapeutic potential",
       "Advancements in glucose biosensors: Innovations for wearable and real-time monitoring",
@@ -1964,6 +2065,7 @@
   {
     "id": "14045440200",
     "name": "Shilpa Deshpande Kaistha",
+    "certificates":["32-32.pdf"],
     "titles": [
       "Synergistic alleviation of salt and Fusarium oxysporum stresses in Arabidopsis thaliana by Trichoderma cerinum Gur1 via modulation of the ABA-JA-SA signaling axis"
     ]
@@ -1971,6 +2073,7 @@
   {
     "id": "60020815700",
     "name": "Shatakshi Chaturvedi",
+    "certificates":["53-53.pdf"],
     "titles": [
       "Wilms\u2019 tumor 1 in urinary exosomes as a non-invasive biomarker for diabetic nephropathy"
     ]
@@ -1985,6 +2088,7 @@
   {
     "id": "60285935400",
     "name": "Shailendra Kumar Gupta",
+    "certificates":["33-33.pdf"],
     "titles": [
       "Structural and thermal analysis of (Bi2Te3)1-x Snx nanostructured thermoelectric telluride (tet) material"
     ]
@@ -1999,6 +2103,7 @@
   {
     "id": "58596089000",
     "name": "Sudhir Kumar Sharma",
+    "certificates":["33-33.pdf"],
     "titles": [
       "Structural and thermal analysis of (Bi2Te3)1-x Snx nanostructured thermoelectric telluride (tet) material"
     ]
@@ -2006,6 +2111,7 @@
   {
     "id": "60030897200",
     "name": "Pragya Agarwal",
+    "certificates":["33-33.pdf"],
     "titles": [
       "Structural and thermal analysis of (Bi2Te3)1-x Snx nanostructured thermoelectric telluride (tet) material"
     ]
@@ -2020,6 +2126,7 @@
   {
     "id": "58997691300",
     "name": "Ayush Dubey",
+    "certificates":["54-54.pdf"],
     "titles": [
       "Advancements and Challenges in Gastroretentive Drug Delivery Systems: A Comprehensive Review of Research Innovation, Technologies, and Clinical Applications"
     ]
@@ -2027,6 +2134,7 @@
   {
     "id": "58186436300",
     "name": "Mohammad Ovais",
+    "certificates":["54-54.pdf"],
     "titles": [
       "Advancements and Challenges in Gastroretentive Drug Delivery Systems: A Comprehensive Review of Research Innovation, Technologies, and Clinical Applications"
     ]
@@ -2041,6 +2149,7 @@
   {
     "id": "60400425000",
     "name": "Anandhan Rajendiran",
+    "certificates":["54-54.pdf"],
     "titles": [
       "Advancements and Challenges in Gastroretentive Drug Delivery Systems: A Comprehensive Review of Research Innovation, Technologies, and Clinical Applications"
     ]
@@ -2048,6 +2157,7 @@
   {
     "id": "60189170300",
     "name": "Shikha Mishra",
+    "certificates":["34-34.pdf"],
     "titles": [
       "Study of thermal and hydrophilic behaviour of interpenetrating polymer network of Graphene and poly alpha methyl styrene"
     ]
@@ -2055,6 +2165,7 @@
   {
     "id": "7202025060",
     "name": "Meet Kamal",
+    "certificates":["34-34.pdf"],
     "titles": [
       "Study of thermal and hydrophilic behaviour of interpenetrating polymer network of Graphene and poly alpha methyl styrene"
     ]
@@ -2111,6 +2222,7 @@
   {
     "id": "60333559700",
     "name": "Diwakar Kumar Mishra",
+    "certificates":["55-55.pdf"],
     "titles": [
       "Analytical advances in the quantitative and qualitative determination of clonidine and methyldopa: A review"
     ]
@@ -2118,6 +2230,7 @@
   {
     "id": "60335181900",
     "name": "Shweta Singh Verma",
+    "certificates":["55-55.pdf"],
     "titles": [
       "Analytical advances in the quantitative and qualitative determination of clonidine and methyldopa: A review"
     ]
@@ -2125,6 +2238,7 @@
   {
     "id": "60024893800",
     "name": "Amrita Singh",
+    "certificates":["55-55.pdf"],
     "titles": [
       "Analytical advances in the quantitative and qualitative determination of clonidine and methyldopa: A review"
     ]
@@ -2132,6 +2246,7 @@
   {
     "id": "60333869700",
     "name": "Shaina Niyaz",
+    "certificates":["55-55.pdf"],
     "titles": [
       "Analytical advances in the quantitative and qualitative determination of clonidine and methyldopa: A review"
     ]
@@ -2216,6 +2331,7 @@
   {
     "id": "60218086900",
     "name": "Gopal Singh",
+    "certificates":["36-36.pdf","39-39.pdf"],
     "titles": [
       "PREDICTIVE DROPOUT ANALYSIS IN ART EDUCATION MANAGEMENT",
       "EDUCATIONAL ASPIRATIONS AND ARTISTIC IDENTITY FORMATION AMONG SLUM YOUTH: A MIXED-METHODS STUDY"
@@ -2231,6 +2347,7 @@
   {
     "id": "57466304100",
     "name": "Sonali Awasthi",
+    "certificates":["37-37.pdf"],
     "titles": [
       "Promoter methylation signature of SLC16A11 gene reavels poor prognosis in head and neck squamous cell carcinoma"
     ]
@@ -2252,6 +2369,7 @@
   {
     "id": "60245705800",
     "name": "Satakshi Chaturvedi",
+    "certificates":["37-37.pdf"],
     "titles": [
       "Promoter methylation signature of SLC16A11 gene reavels poor prognosis in head and neck squamous cell carcinoma"
     ]
@@ -2259,6 +2377,7 @@
   {
     "id": "58448097600",
     "name": "Sudhir Kumar Awasthi",
+    "certificates":["37-37.pdf"],
     "titles": [
       "Promoter methylation signature of SLC16A11 gene reavels poor prognosis in head and neck squamous cell carcinoma"
     ]
@@ -2322,6 +2441,7 @@
   {
     "id": "60218141900",
     "name": "Anil Kumar",
+    "certificates":["39-39.pdf"],
     "titles": [
       "EDUCATIONAL ASPIRATIONS AND ARTISTIC IDENTITY FORMATION AMONG SLUM YOUTH: A MIXED-METHODS STUDY"
     ]
@@ -2329,6 +2449,7 @@
   {
     "id": "60217864400",
     "name": "Neelesh Kumar",
+    "certificates":["39-39.pdf"],
     "titles": [
       "EDUCATIONAL ASPIRATIONS AND ARTISTIC IDENTITY FORMATION AMONG SLUM YOUTH: A MIXED-METHODS STUDY"
     ]
@@ -2336,6 +2457,7 @@
   {
     "id": "60218252700",
     "name": "Pradeep Kumar Tiwari",
+    "certificates":["39-39.pdf"],
     "titles": [
       "EDUCATIONAL ASPIRATIONS AND ARTISTIC IDENTITY FORMATION AMONG SLUM YOUTH: A MIXED-METHODS STUDY"
     ]
@@ -2343,6 +2465,7 @@
   {
     "id": "60218141800",
     "name": "Avinash Kumar",
+    "certificates":["39-39.pdf"],
     "titles": [
       "EDUCATIONAL ASPIRATIONS AND ARTISTIC IDENTITY FORMATION AMONG SLUM YOUTH: A MIXED-METHODS STUDY"
     ]
