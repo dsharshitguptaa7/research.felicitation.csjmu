@@ -67,33 +67,48 @@ function searchAuthor() {
     return;
   }
 
-  matches.forEach(user => {
-    const card = document.createElement("div");
-    card.className = "card";
+ matches.forEach(user => {
+  const card = document.createElement("div");
+  card.className = "card";
 
-    let titlesHTML = "";
-    user.titles.forEach(t => {
-      titlesHTML += `<li>${t}</li>`;
-    });
+  let titlesHTML = "";
+  user.titles.forEach(t => {
+    titlesHTML += `<li>${t}</li>`;
+  });
 
-    card.innerHTML = `
-      <h3>${user.name}</h3>
-      <p><strong>Scopus ID:</strong> ${user.id}</p>
-      <p><strong>Publications:</strong> ${user.titles.length}</p>
+  // 🔥 CERTIFICATE BUTTONS
+  let certButtons = "";
+  const certs = user.certificates || [];
 
-      <ul class="titles">${titlesHTML}</ul>
-
-      <button class="download-btn" onclick="downloadCert('${user.name}')">
-        ⬇ Download Certificate
+  certs.forEach((file, index) => {
+    certButtons += `
+      <button class="download-btn" onclick="downloadCert('${file}')">
+        ⬇ Certificate ${index + 1}
       </button>
     `;
-
-    resultDiv.appendChild(card);
   });
-}
 
-function downloadCert(name) {
-  const file = "certificates/" + name + ".pdf";
+  // 🔥 CARD HTML
+  card.innerHTML = `
+    <h3>${user.name}</h3>
+    <p><strong>Scopus ID:</strong> ${user.id}</p>
+    <p><strong>Publications:</strong> ${user.titles.length}</p>
+
+    <ul class="titles">${titlesHTML}</ul>
+
+    <div class="cert-buttons">
+      ${certButtons}
+    </div>
+  `;
+
+  // 🔥 IMPORTANT (missing tha)
+  resultDiv.appendChild(card);
+
+}); 
+}
+// ✅ ye closing bracket missing tha
+function downloadCert(fileName) {
+  const file = "certificates/" + fileName;
   window.open(file, "_blank");
 }
 

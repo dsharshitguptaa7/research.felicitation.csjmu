@@ -92,6 +92,7 @@
   {
     "id": "60370091500",
     "name": "Anas Ahmad",
+    "certificates":["01-01.pdf"],
     "titles": [
       "Identifying Determinants of Social Media Influence on Purchase Decisions: A Factor Analytical Study of Rural Consumers in Selected Districts of Uttar Pradesh"
     ]
@@ -99,6 +100,7 @@
   {
     "id": "58492263200",
     "name": "Neeraj Kumar Singh",
+    "certificate":"01-01.pdf",
     "titles": [
       "Identifying Determinants of Social Media Influence on Purchase Decisions: A Factor Analytical Study of Rural Consumers in Selected Districts of Uttar Pradesh"
     ]
@@ -216,6 +218,7 @@
   {
     "id": "59322736300",
     "name": "Akhilesh Chandra Pandey",
+    "certificate":"02-02.pdf",
     "titles": [
       "Investigation of immiscible couple stress nanofluid and micropolar fluid flow through porous beds with different permeability"
     ]
@@ -244,6 +247,7 @@
   {
     "id": "58482881100",
     "name": "Kumari Arpita",
+    "certificate":"03-03.pdf",
     "titles": [
       "A multi city assessment of industrial waste management in the middle Ganga Basin Uttar Pradesh India"
     ]
@@ -251,6 +255,7 @@
   {
     "id": "57211433387",
     "name": "Sanjeev Kumar Singh",
+    "certificate":"03-03.pdf",
     "titles": [
       "A multi city assessment of industrial waste management in the middle Ganga Basin Uttar Pradesh India"
     ]
@@ -258,6 +263,7 @@
   {
     "id": "60335580800",
     "name": "Vishal Chand",
+    "certificate":"03-03.pdf",
     "titles": [
       "A multi city assessment of industrial waste management in the middle Ganga Basin Uttar Pradesh India"
     ]
@@ -265,6 +271,7 @@
   {
     "id": "60385512400",
     "name": "Surendra Kumar",
+    "certificate":"03-03.pdf",
     "titles": [
       "A multi city assessment of industrial waste management in the middle Ganga Basin Uttar Pradesh India"
     ]
@@ -272,6 +279,7 @@
   {
     "id": "60336444000",
     "name": "Saurabh Mishra",
+    "certificate":"03-03.pdf",
     "titles": [
       "A multi city assessment of industrial waste management in the middle Ganga Basin Uttar Pradesh India"
     ]
@@ -279,6 +287,7 @@
   {
     "id": "7409869864",
     "name": "Saurabh",
+    "certificate":"03-03.pdf",
     "titles": [
       "A multi city assessment of industrial waste management in the middle Ganga Basin Uttar Pradesh India"
     ]
@@ -286,6 +295,7 @@
   {
     "id": "60195398900",
     "name": "Kavita Singh",
+    "certificate":"03-03.pdf",
     "titles": [
       "A multi city assessment of industrial waste management in the middle Ganga Basin Uttar Pradesh India"
     ]
@@ -370,6 +380,7 @@
   {
     "id": "57267621100",
     "name": "Arpit Dwivedi",
+    "certificate":"04-04.pdf",
     "titles": [
       "On stochastic dynamical systems governed by generalized fractional order stochastic anti-periodic boundary value problem with Poisson-jump"
     ]
@@ -391,6 +402,7 @@
   {
     "id": "59438723900",
     "name": "Omkar Agrahari",
+    "certificate":"05-05.pdf",
     "titles": [
       "An Analysis of Academic Behavior Analytics in Blended Mode of Teaching and Learning"
     ]
@@ -398,6 +410,7 @@
   {
     "id": "7103235575",
     "name": "Vinay Kumar Pathak",
+    "certificate":"05-05.pdf",
     "titles": [
       "An Analysis of Academic Behavior Analytics in Blended Mode of Teaching and Learning"
     ]
@@ -467,6 +480,7 @@
   {
     "id": "58688627800",
     "name": "Anuj Kumar",
+    "certificate":"06-06.pdf",
     "titles": [
       "Incorporating Behavioural Haematological Biochemical and Pathophysiological Markers to Gauge the Detrimental Consequences of Altered Water Chemistry"
     ]
@@ -474,6 +488,7 @@
   {
     "id": "60236650800",
     "name": "Deepak Kumar Dwivedi",
+    "certificate":"06-06.pdf",
     "titles": [
       "Incorporating Behavioural Haematological Biochemical and Pathophysiological Markers to Gauge the Detrimental Consequences of Altered Water Chemistry",
       "Role of Ascorbic Acid in Mitigating Oxidative Stress and Mutagenicity Induced by Heavy Metals Toxicity in Heteropneustes fossilis. L"
@@ -496,6 +511,7 @@
   {
     "id": "58252798300",
     "name": "Vinod Kumar Verma",
+    "certificate":"06-06.pdf",
     "titles": [
       "Incorporating Behavioural Haematological Biochemical and Pathophysiological Markers to Gauge the Detrimental Consequences of Altered Water Chemistry",
       "Role of Ascorbic Acid in Mitigating Oxidative Stress and Mutagenicity Induced by Heavy Metals Toxicity in Heteropneustes fossilis. L"
@@ -624,6 +640,7 @@
   {
     "id": "59911341400",
     "name": "Anshuman Prajapati",
+    "certificate":"07-07.pdf",
     "titles": [
       "In Vitro Assessment of the Cytoprotective Activity of Syzygium cumini Seed Extract on RIN-5F Pancreatic \u03b2-Cell Lines and HUH-7 Hepatocellular Carcinoma Cell Lines"
     ]
@@ -638,6 +655,7 @@
   {
     "id": "60503589400",
     "name": "Ajay Kumar Gupta",
+    "certificate":"07-07.pdf",
     "titles": [
       "In Vitro Assessment of the Cytoprotective Activity of Syzygium cumini Seed Extract on RIN-5F Pancreatic \u03b2-Cell Lines and HUH-7 Hepatocellular Carcinoma Cell Lines"
     ]
@@ -645,6 +663,7 @@
   {
     "id": "60388310500",
     "name": "Anuj Kumar",
+    "certificate":"08-08.pdf",
     "titles": [
       "Role of Ascorbic Acid in Mitigating Oxidative Stress and Mutagenicity Induced by Heavy Metals Toxicity in Heteropneustes fossilis. L"
     ]
@@ -652,6 +671,7 @@
   {
     "id": "58688627700",
     "name": "Shalini Gupta",
+    "certificate":"08-08.pdf",
     "titles": [
       "Role of Ascorbic Acid in Mitigating Oxidative Stress and Mutagenicity Induced by Heavy Metals Toxicity in Heteropneustes fossilis. L"
     ]
