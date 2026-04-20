@@ -12,10 +12,21 @@
 <!-- HERO -->
 <section class="hero">
   <div class="top-bar">
-    <img src="university-logo.png" class="logo left-logo">
-    <h1 id="typing"></h1>
-    <img src="naac-logo.png" class="logo right-logo">
+
+    <!-- LEFT -->
+    <img src="university-logo.png" class="logo">
+
+    <!-- CENTER LOGO -->
+    <img src="bulletin.png" class="logo center-logo">
+
+    <!-- RIGHT -->
+    <img src="naac-logo.png" class="logo">
+
   </div>
+
+  <!-- TEXT BELOW -->
+  <h1 id="typing"></h1>
+
 </section>
 
 <hr class="divider">
@@ -23,6 +34,7 @@
 <section class="invitation-section">
 
   <h2>Event Invitation</h2>
+  <div class="divider"></div>
 
   <div class="invite-container">
     <img src="invitation.jpeg" alt="Invitation Card">
@@ -33,6 +45,7 @@
 <section class="event-info">
 
   <h2 class="event-title">Event Details</h2>
+  <div class="divider"></div>
 
   <div class="event-grid">
 
@@ -59,51 +72,200 @@
 </section>
 
 <section class="message-section">
-  <h2 class="section-title">Messages from Leadership</h2>
+  <h2 class="section-title">Messages</h2>
   <div class="divider"></div>
 
-  <div class="message-container">
+  <div class="pyramid">
 
-    <!-- CARD 1 -->
-    <div class="message-card">
-      <img src="vinay.jpg" alt="VC">
-      <h3>Prof. Vinay Kumar Pathak</h3>
-      <p class="designation">Vice Chancellor</p>
-      <p class="message-text">
+    <!-- ROW 1 (Chancellor) -->
+    <div class="row row-1">
+      <div class="message-card">
+        <img src="chancellor.jpeg" alt="Chancellor">
+        <h3>Smt. Anandiben Patel</h3>
+        <p class="designation">Chancellor</p>
+      </div>
+    </div>
+
+    <!-- ROW 2 (VC) -->
+    <div class="row row-2">
+      <div class="message-card">
+        <img src="vinay.jpg">
+        <h3>Prof. Vinay Kumar Pathak</h3>
+        <p class="designation">Vice Chancellor, CSJMU</p>
+        <p class="message-text">
         It is with immense pride and pleasure that I extend my heartfelt congratulations...
       </p>
-      <button onclick="openModal('vcModal')">Read More</button>
+        <button onclick="openModal('vcModal')">Read More</button>
+      </div>
     </div>
 
-    <!-- CARD 2 -->
-    <div class="message-card">
-      <img src="awasthi.png" alt="Pro VC">
-      <h3>Prof. Sudhir Kumar Awasthi</h3>
-      <p class="designation">Pro-Vice Chancellor</p>
-      <p class="message-text">
+    <!-- ROW 3 (3 CARDS) -->
+    <div class="row row-3">
+
+      <div class="message-card">
+        <img src="awasthi.png">
+        <h3>	Prof. Sudhir K Awasthi</h3>
+        <p class="designation">Pro Vice Chancellor, CSJMU</p>
+        <p class="message-text">
         I am pleased to extend my heartfelt congratulations to the Research & Development (R&D) Cell...
       </p>
-      <button onclick="openModal('provcModal')">Read More</button>
+        <button onclick="openModal('provcModal')">Read More</button>
+      </div>
+
+      <div class="message-card">
+        <img src="cdc.jpeg">
+        <h3>Prof R.K. Dwivedi</h3>
+        <p class="designation">Director, CDC, CSJMU</p>
+        <p class="message-text">
+        I am pleased to note the publication of the Research Bulletin – Volume 2, 1st Edition by the Research & Development Cell, CSJMU....
+      </p>
+        <button onclick="openModal('cdcModal')">Read More</button>
+      </div>
+
+      <div class="message-card">
+        <img src="registrar.jpg">
+        <h3>Shri Rakesh Kumar Mishra</h3>
+        <p class="designation">Registrar, CSJMU</p>
+        <p class="message-text">
+          It is a matter of great pride to witness the continued progress of research activities at Chhatrapati Shahu Ji Maharaj University, Kanpur, reflected through the Research Bulletin – Volume 2, 1st Edition.</p>
+        <button onclick="openModal('registrarModal')">Read More</button>
+      </div>
+
     </div>
 
-    <!-- CARD 3 -->
-    <div class="message-card">
-      <img src="namita.jpg" alt="Dean">
-      <h3>Dr. Namita Tiwari</h3>
-      <p class="designation">Dean, R&D</p>
-      <p class="message-text">
+    <!-- ROW 4 (Dean Center) -->
+    <div class="row row-4">
+      <div class="message-card highlight">
+        <img src="namita.jpg">
+        <h3>Dr. Namita Tiwari</h3>
+        <p class="designation">Dean, R&D, CSJMU</p>
+        <p class="message-text">
          It gives me immense pride to present Volume 2, Issue 1 of the CSJMU Research Bulletin,...
       </p>
-      <button onclick="openModal('deanModal')">Read More</button>
+        <button onclick="openModal('deanModal')">Read More</button>
+      </div>
     </div>
 
   </div>
 </section>
 
+<div id="vcModal" class="modal">
+  <div class="modal-content">
+    <span onclick="closeModal('vcModal')">&times;</span>
+    <h2>Prof. Vinay Kumar Pathak</h2>
+    <p> It is with immense pride and pleasure that I extend my heartfelt congratulations to the Research & Development (R&D) Cell of Chhatrapati Shahu Ji Maharaj 
+University, Kanpur, on the successful launch of the 5th edition of the University 
+Research Magazine. This milestone reflects the dedication of our faculty, 
+researchers, and students in fostering a vibrant culture of research and 
+innovation.
+  The introduction of new policies and amendments by the R&D Cell is highly 
+commendable, demonstrating a progressive approach toward enhancing 
+research quality, promoting interdisciplinary collaboration, and ensuring ethical 
+academic practices.
+    This edition stands as a testament to the university’s commitment to 
+intellectual growth and meaningful societal contribution. Through initiatives like 
+the College Research Corner, the R&D Cell has created inclusive platforms for 
+wider academic participation. I am confident these efforts will further strengthen 
+our research ecosystem. 
+ I extend my best wishes to the entire team and encourage the CSJMU 
+community to actively engage with this valuable initiative.
+</p>
+  </div>
+</div>
+
+<div id="provcModal" class="modal">
+  <div class="modal-content">
+    <span onclick="closeModal('provcModal')">&times;</span>
+    <h2>Prof. Sudhir Kumar Awasthi</h2>
+    <p>I am pleased to extend my heartfelt congratulations to the Research & Development (R&D) Cell of Chhatrapati Shahu Ji Maharaj University, Kanpur, on 
+the successful launch of the 5th edition of the University Research Magazine. 
+  This achievement marks a significant step in strengthening a vibrant and 
+sustainable research ecosystem across the university and its affiliated colleges. 
+This edition reflects the diverse research accomplishments, innovations, and 
+academic excellence of our faculty, researchers, and students. 
+    The introduction of new policies and recent amendments by the R&D Cell is 
+highly commendable, as they aim to enhance research quality, encourage 
+interdisciplinary collaboration, and ensure ethical and impactful scholarship 
+aligned with global standards. 
+      The inclusive approach, especially through platforms like the College Research 
+Corner, fosters wider participation and knowledge exchange. I sincerely 
+appreciate the efforts of the R&D team and encourage the academic community 
+to actively contribute. 
+    I extend my best wishes for the continued success of this valuable initiative.</p>
+  </div>
+</div>
+
+<div id="cdcModal" class="modal">
+  <div class="modal-content">
+    <span onclick="closeModal('cdcModal')">&times;</span>
+    <h2>Prof. R. K. Dwivedi</h2>
+    <p>I am pleased to note the publication of the Research Bulletin – Volume 2, 1st Edition by the Research & Development Cell, CSJMU.
+
+The University has witnessed significant growth in research output, faculty engagement, and academic initiatives in recent years. The structured mechanisms for research monitoring, proposal evaluation, and quality assurance have played a vital role in enhancing the overall research environment.
+
+This bulletin serves as a valuable platform to document and disseminate the research contributions of the University community. It reflects not only the quantity but also the quality and diversity of work being carried out across disciplines.
+
+I congratulate the Dean, Research & Development, and the entire team for their efforts and extend my best wishes for the continued success of this initiative.</p>
+  </div>
+</div>
+
+<div id="registrarModal" class="modal">
+  <div class="modal-content">
+    <span onclick="closeModal('registrarModal')">&times;</span>
+    <h2>Shri Rakesh Kumar Mishra</h2>
+    <p>It is a matter of great pride to witness the continued progress of research activities at Chhatrapati Shahu Ji Maharaj University, Kanpur, reflected through the Research Bulletin – Volume 2, 1st Edition.
+
+The University has consistently taken steps to strengthen its research ecosystem by ensuring transparency, efficiency, and adherence to academic standards. The efforts of the Research & Development Cell in streamlining research processes, monitoring progress, and promoting quality publications are truly commendable.
+
+This bulletin highlights the collective achievements of our faculty members, researchers, and affiliated institutions, demonstrating the University’s commitment to excellence and innovation.
+
+I extend my sincere appreciation to all contributors and wish them continued success in their academic pursuits.
+</p>
+  </div>
+</div>
+
+<div id="deanModal" class="modal">
+  <div class="modal-content">
+    <span onclick="closeModal('deanModal')">&times;</span>
+    <h2>Dr. Namita Tiwari</h2>
+    <p>  It gives me immense pride to present Volume 2, Issue 1 of the CSJMU Research Bulletin, 
+a reflection of our university’s continuous journey towards research excellence, 
+innovation, and academic leadership.
+   This edition of the Research Bulletin showcases the diverse and impactful research 
+contributions emerging from various disciplines, highlighting the university’s growing 
+presence in national and international academic platforms. The steady rise in research 
+publications, interdisciplinary collaborations, and quality outcomes reflects our collective 
+commitment to excellence and innovation.
+   The introduction of progressive policies, structured monitoring mechanisms, and 
+technology-driven research governance has significantly enhanced the quality, 
+relevance, and ethical standards of research at CSJMU. Initiatives such as research 
+progress reviews, proposal evaluations, fellowship support, and AI-driven research 
+schemes are creating an enabling environment for scholars to pursue meaningful and 
+application-oriented research.
+  Our focus is steadily shifting from publications to impactful outcomes, encouraging 
+innovation, product development, and real-world problem-solving. The CAM-AI Research 
+Projects Scheme and interdisciplinary initiatives further strengthen this vision by 
+promoting cutting-edge research aligned with societal and industrial needs.
+  This bulletin also reflects the inclusive and participative research culture at CSJMU, 
+where faculty, scholars, and affiliated colleges actively contribute to knowledge 
+exchange and academic growth. Such collective efforts are instrumental in building a 
+vibrant and globally competitive research ecosystem.
+         I extend my sincere appreciation to the entire R&D team, faculty members, research 
+scholars, and contributors whose dedication and hard work have made this publication 
+possible. I am confident that this initiative will continue to inspire excellence, foster 
+innovation, and strengthen the research culture of our university.
+     Let us continue to innovate, collaborate, and contribute meaningfully to society 
+through research.
+</p>
+  </div>
+</div>
+
+
 <!-- TIMELINE -->
 <section class="timeline-section">
-
+  
   <h2>Minute–to–Minute Programme</h2>
+  <div class="divider"></div>
 
   <div class="timeline-horizontal">
 
@@ -366,6 +528,33 @@ as a leader in transparent and technology-driven research ecosystems.
 
 </section>
 
+<section class="ranking-section">
+
+  <h2 class="section-title">University Rankings</h2>
+  <div class="divider"></div>
+
+  <div class="ranking-grid">
+
+    <div class="ranking-card">
+      <img src="rank1.jpeg" alt="Ranking">
+    </div>
+
+    <div class="ranking-card">
+      <img src="rank2.jpeg" alt="Ranking">
+    </div>
+
+    <div class="ranking-card">
+      <img src="rank3.jpeg" alt="Ranking">
+    </div>
+
+    <div class="ranking-card">
+      <img src="rank4.jpeg" alt="Ranking">
+    </div>
+
+  </div>
+
+</section>
+
 <!-- SEARCH -->
 <section class="search-section">
 
@@ -388,87 +577,6 @@ as a leader in transparent and technology-driven research ecosystems.
 
 </section>
 
-<div id="vcModal" class="modal">
-  <div class="modal-content">
-    <span onclick="closeModal('vcModal')">&times;</span>
-    <h2>Prof. Vinay Kumar Pathak</h2>
-    <p> It is with immense pride and pleasure that I extend my heartfelt congratulations to the Research & Development (R&D) Cell of Chhatrapati Shahu Ji Maharaj 
-University, Kanpur, on the successful launch of the 5th edition of the University 
-Research Magazine. This milestone reflects the dedication of our faculty, 
-researchers, and students in fostering a vibrant culture of research and 
-innovation.
-  The introduction of new policies and amendments by the R&D Cell is highly 
-commendable, demonstrating a progressive approach toward enhancing 
-research quality, promoting interdisciplinary collaboration, and ensuring ethical 
-academic practices.
-    This edition stands as a testament to the university’s commitment to 
-intellectual growth and meaningful societal contribution. Through initiatives like 
-the College Research Corner, the R&D Cell has created inclusive platforms for 
-wider academic participation. I am confident these efforts will further strengthen 
-our research ecosystem. 
- I extend my best wishes to the entire team and encourage the CSJMU 
-community to actively engage with this valuable initiative.
-</p>
-  </div>
-</div>
-
-<div id="provcModal" class="modal">
-  <div class="modal-content">
-    <span onclick="closeModal('provcModal')">&times;</span>
-    <h2>Prof. Sudhir Kumar Awasthi</h2>
-    <p>I am pleased to extend my heartfelt congratulations to the Research & Development (R&D) Cell of Chhatrapati Shahu Ji Maharaj University, Kanpur, on 
-the successful launch of the 5th edition of the University Research Magazine. 
-  This achievement marks a significant step in strengthening a vibrant and 
-sustainable research ecosystem across the university and its affiliated colleges. 
-This edition reflects the diverse research accomplishments, innovations, and 
-academic excellence of our faculty, researchers, and students. 
-    The introduction of new policies and recent amendments by the R&D Cell is 
-highly commendable, as they aim to enhance research quality, encourage 
-interdisciplinary collaboration, and ensure ethical and impactful scholarship 
-aligned with global standards. 
-      The inclusive approach, especially through platforms like the College Research 
-Corner, fosters wider participation and knowledge exchange. I sincerely 
-appreciate the efforts of the R&D team and encourage the academic community 
-to actively contribute. 
-    I extend my best wishes for the continued success of this valuable initiative.</p>
-  </div>
-</div>
-
-<div id="deanModal" class="modal">
-  <div class="modal-content">
-    <span onclick="closeModal('deanModal')">&times;</span>
-    <h2>Dr. Namita Tiwari</h2>
-    <p>  It gives me immense pride to present Volume 2, Issue 1 of the CSJMU Research Bulletin, 
-a reflection of our university’s continuous journey towards research excellence, 
-innovation, and academic leadership.
-   This edition of the Research Bulletin showcases the diverse and impactful research 
-contributions emerging from various disciplines, highlighting the university’s growing 
-presence in national and international academic platforms. The steady rise in research 
-publications, interdisciplinary collaborations, and quality outcomes reflects our collective 
-commitment to excellence and innovation.
-   The introduction of progressive policies, structured monitoring mechanisms, and 
-technology-driven research governance has significantly enhanced the quality, 
-relevance, and ethical standards of research at CSJMU. Initiatives such as research 
-progress reviews, proposal evaluations, fellowship support, and AI-driven research 
-schemes are creating an enabling environment for scholars to pursue meaningful and 
-application-oriented research.
-  Our focus is steadily shifting from publications to impactful outcomes, encouraging 
-innovation, product development, and real-world problem-solving. The CAM-AI Research 
-Projects Scheme and interdisciplinary initiatives further strengthen this vision by 
-promoting cutting-edge research aligned with societal and industrial needs.
-  This bulletin also reflects the inclusive and participative research culture at CSJMU, 
-where faculty, scholars, and affiliated colleges actively contribute to knowledge 
-exchange and academic growth. Such collective efforts are instrumental in building a 
-vibrant and globally competitive research ecosystem.
-         I extend my sincere appreciation to the entire R&D team, faculty members, research 
-scholars, and contributors whose dedication and hard work have made this publication 
-possible. I am confident that this initiative will continue to inspire excellence, foster 
-innovation, and strengthen the research culture of our university.
-     Let us continue to innovate, collaborate, and contribute meaningfully to society 
-through research.
-</p>
-  </div>
-</div>
 
 
 <footer class="footer">

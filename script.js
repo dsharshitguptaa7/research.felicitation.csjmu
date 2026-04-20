@@ -2,7 +2,6 @@ const text = `Welcome
 to
 Research Excellence
 Felicitation & Launch of Research Bulletin
-
 (Volume -02, Issue-01)`;
 
 let index = 0;
