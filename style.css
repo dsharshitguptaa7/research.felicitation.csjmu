@@ -1090,7 +1090,7 @@ html {
 }
 
 .video-container iframe {
-  width: 100%;
+  width: 50%;
   height: 450px;      /* 🔥 balanced height */
   border-radius: 15px;
   border: none;
