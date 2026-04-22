@@ -150,3 +150,44 @@ window.addEventListener("load", () => {
     document.getElementById("searchInput").focus();
   }
 });
+
+function openImage(img) {
+  document.getElementById("imgModal").style.display = "flex";
+  document.getElementById("modalImg").src = img.src;
+}
+
+function closeImage() {
+  document.getElementById("imgModal").style.display = "none";
+}
+
+const slider = document.querySelector('.gallery-scroll');
+
+let isDown = false;
+let startX;
+let scrollLeft;
+
+slider.addEventListener('mousedown', (e) => {
+  isDown = true;
+  slider.style.cursor = "grabbing";
+  startX = e.pageX - slider.offsetLeft;
+  scrollLeft = slider.scrollLeft;
+});
+
+slider.addEventListener('mouseleave', () => {
+  isDown = false;
+  slider.style.cursor = "grab";
+});
+
+slider.addEventListener('mouseup', () => {
+  isDown = false;
+  slider.style.cursor = "grab";
+});
+
+slider.addEventListener('mousemove', (e) => {
+  if (!isDown) return;
+  e.preventDefault();
+  const x = e.pageX - slider.offsetLeft;
+  const walk = (x - startX) * 2;
+  slider.scrollLeft = scrollLeft - walk;
+});
+
